@@ -1,0 +1,8 @@
+vosk==0.3.45
+piper-tts==1.8.0
+cffi
+requests
+onnxruntime==1.31.0
+tqdm==4.67.1
+websockets==15.0.1
+srt==3.5.3

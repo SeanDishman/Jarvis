@@ -1,0 +1,10 @@
+{
+  "name": "jarvis-desktop-ui",
+  "version": "20.0.0",
+  "private": true,
+  "description": "Jarvis's desktop interface: the orb, conversation panel, console and settings.",
+  "main": "main.mjs",
+  "devDependencies": {
+    "electron": "44.7.0"
+  }
+}

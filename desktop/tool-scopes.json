@@ -1,0 +1,21 @@
+{
+  "web": ["start_web_search", "web_search_status"],
+  "email": ["email_accounts", "search_email", "read_email", "start_email_search", "email_search_status"],
+  "apps": ["list_apps", "launch_app"],
+  "computer": ["start_computer_task", "computer_status"],
+  "browser": ["browser_navigate", "browser_read", "browser_click", "browser_fill", "browser_scroll"],
+  "layout": ["list_layout_windows", "arrange_windows"],
+  "reminders": ["create_reminder", "list_reminders", "change_reminder"],
+  "files": ["search_files", "search_document_content", "read_file", "list_file_locations", "create_document", "edit_document", "move_document"],
+  "memory": ["search_memory", "read_memory", "save_memory", "forget_memory"],
+  "system": ["windows_control"],
+  "monitor": ["monitor_status", "monitor_settings", "dismiss_alerts"],
+  "projects": ["list_projects", "read_project", "save_project", "resume_project"],
+  "powershell": ["start_powershell", "powershell_status"],
+  "processes": ["list_running_processes", "terminate_processes"],
+  "network": ["get_network_info"],
+  "visuals": ["show_visual"],
+  "weather": ["get_weather"],
+  "briefing": ["get_briefing"],
+  "settings": ["list_models", "select_model", "show_model_settings", "change_jarvis_setting", "allow_lock_in_visit", "get_jarvis_interface", "move_jarvis_orb"]
+}

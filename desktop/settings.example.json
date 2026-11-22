@@ -1,0 +1,11 @@
+{
+  "wakeWord": "jarvis",
+  "microphoneDevice": null,
+  "monitor": null,
+  "muted": false,
+  "commandTimeoutSeconds": 12,
+  "speechPauseSeconds": 2.0,
+  "whisperModel": "whisper-large-v3",
+  "showTaskPopups": true,
+  "emailEnabled": false
+}

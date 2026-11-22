@@ -1,0 +1,40 @@
+.runtime/
+.cache/
+.venv/
+.openclaw/
+.secrets/
+logs/
+__pycache__/
+*.pyc
+Jarvis Brain/
+Jarvis Files/
+
+.claude/
+.codex/
+.vibecode/
+.vibecode-bridge.md
+audio/
+node_modules/
+.env
+.env.*
+!.env.example
+phone/settings.json
+desktop/settings.json
+desktop/model-settings.json
+*.dpapi
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
+*.tmp
+
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+
+# UI Automation library log
+@AutomationLog.txt

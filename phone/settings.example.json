@@ -1,0 +1,10 @@
+{
+  "voice": {
+    "model": "jarvis-high.onnx",
+    "label": "Jarvis high - British English male",
+    "lengthScale": 1.15,
+    "speed": 1.5,
+    "noiseScale": 0.667,
+    "noiseWScale": 0.8
+  }
+}
